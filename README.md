@@ -5,8 +5,8 @@ Dart除了有Flutter移动框架外，还可以开发Web网页。
 
 官方详细介绍地址：https://webdev.dartlang.org/guides/get-started
 
-dart文件就是充当操作html的Dom树的功能，也就是替代了JS的原始用法，不过最终运行时也是将dart文件编译为js文件运行，只不过dart语法比js的使用更加方便与强大。
-dart就是替代了JQuery等js框架。
+Dart文件就是充当操作Html的Dom树的功能，也就是替代了JS的原始用法，不过最终运行时也是将Dart文件编译为JS文件运行，只不过Dart语法比JS的使用更加方便与强大。
+Dart就是替代了JQuery等JS框架。
 
 【Wiki文档】
 
